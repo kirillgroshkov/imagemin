@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-imagemin": "3.0.1",
+    "imagemin-jpeg-recompress": "5.1.0"
+  },
+  "repository": {},
+  "license": "MIT"
+}
